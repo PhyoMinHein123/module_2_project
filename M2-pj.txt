@@ -1,0 +1,118 @@
+
+Project Name - Travel, Ecommerce, HRMS, LMS, POS, ...
+
+-------------------------------------- A
+
+Old project    - design
+	       - Forget password
+	       - RWD ( responsive web design )
+	       - User Profile
+               - Change Password
+
+-------------------------------------- A
+Gmail - to info1@pagemyanmar.com
+
+	Id 		- 1234
+	Student name 	- Mg Mg
+	Project link 	- https://github.com/MgMg/exampleProject.git
+
+-------------------------------------
+python -m pip freeze > requirement.txt
+
+git --version
+git config --global user.name "mg mg"
+git config --global user.email "mgmg@gmail.com"
+
+git init 
+git add .
+git commit -m "firstCommit"
+*git remote add origin https://github.com/MgMg/exampleProject.git
+git push -u origin master
+
+-----------------------------------------
+
+14, 3, 2024
+
+------------------
+
+odoo 
+
+laravel (blog, api)
+
+docker
+
+-----------------
+
+
+
+
+
+
+
+
+
+
+
+
+UI/UX (Figma, Sketch, Adobe)
+
+
+Frontend (css,javascript)
+
+css -> framework (bootstrap, twailwind,..)
+js -> framework (react, vue, angular)
+ 
+
+Backend (php,python,nodejs)
+
+php -> framework (laravel,..) (MVC)(composer)
+python -> framework (django,..) (MCT)(pip)
+nodejs -> framework (expressjs,..) (npm, pnpm, npx)
+
+database
+
+sql (database RS) (sql query) -> mysql, sqlite, postgres, ... 
+
+nosql (real time) -> mongodb,..
+
+
+-----------------------
+	
+git / (github, gitlab, bitbucket) (Version Control System)
+
+Linux (ubuntu, kali linux )
+
+---
+Docker
+
+apache2 / Nginx
+
+
+-----------------------
+full stack 
+
+css, bootstrap
+php(sql query)
+
+php
+--------------------
+full stack 
+
+css, bootstrap
+
+django
+-------------------
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
